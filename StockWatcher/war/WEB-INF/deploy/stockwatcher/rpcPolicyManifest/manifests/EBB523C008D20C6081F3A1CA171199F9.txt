@@ -1,0 +1,2 @@
+serviceClass: com.google.gwt.sample.stockwatcher.client.TwitterService
+path: 496C158AED530ECFB7D8848FB7761B6B.gwt.rpc
